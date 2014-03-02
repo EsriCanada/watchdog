@@ -250,7 +250,7 @@ def deleteOldTriggers(triggerArray, gt):
 workspace = "C:\\WatchDog\\Python\\Data"
 
 # Create a GeotriggerClient as an Application
-gt = GeotriggerClient("rv74pSMm7KXpsbwk", "baa9d0ce222f479f843ea0051b2cf5f8")
+gt = GeotriggerClient(<client app info>)
 
 createGeotriggerPolys(workspace)
 
